@@ -1,4 +1,4 @@
-# News_Fresh
+# :newspaper: News_Fresh 
 News Application for Android using REST API
 
 
@@ -8,15 +8,18 @@ _Features_
 
 **All**
 
-**Technology**
+:technologist: **Technology**
 
-**Science**
+:microscope: **Science**
 
-**Business**
+:chart: **Business**
 
-**Sports**
+:soccer:**Sports**
 
 **Many ....>**
 
 
 _Based on the user categories interest the news will sort_
+
+
+#### They can read full news on default browser
