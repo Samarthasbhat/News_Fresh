@@ -27,7 +27,7 @@ _Based on the user categories interest the news will sort_
 # Results
 <p float="left">
   <img src="https://github.com/Samarthasbhat/News_Fresh/blob/master/s3.png" width="450" />
-  <img src="https://github.com/Samarthasbhat/News_Fresh/blob/master/s1.png" width="450" /> 
+  <img src="https://github.com/Samarthasbhat/News_Fresh/blob/master/s1.png" width="450" />
   <img src="https://github.com/Samarthasbhat/News_Fresh/blob/master/s4.png" width="450" /> 
   <img src="https://github.com/Samarthasbhat/News_Fresh/blob/master/s2.png" width="450" /> 
 
