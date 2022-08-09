@@ -11,7 +11,7 @@ News Application for Android using REST API
 
 :microscope: **Science**
 
-:chart: **Business**
+:chart_with_upwards_trend: **Business**
 
 :soccer:**Sports**
 
