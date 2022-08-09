@@ -2,7 +2,6 @@
 News Application for Android using REST API
 
 
-_Features_
 
 ## Categories
 
